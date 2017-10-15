@@ -1,0 +1,1 @@
+# M-todo-de-regreci-n-Lineal
